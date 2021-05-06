@@ -1,9 +1,11 @@
 {
-  "name": "MVC1",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "jquery": "^3.6.0"
-  }
+    "name": "mvc-demo",
+    "version": "1.0.0",
+    "main": "dist/index.html",
+    "repository": "git@github.com:chaos430/mvc-demo1.git",
+    "author": "chaos430 <1192318530@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": "^3.6.0"
+    }
 }
